@@ -3,7 +3,7 @@ Atelier 4
 
 ## Structure 
 Message : 
-```json
+```
 { customer,
 seller,
 content, 
