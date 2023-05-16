@@ -3,11 +3,12 @@ Atelier 4
 
 ## Structure 
 Message : 
-```JSON
+```json
 { customer,
 seller,
 content, 
-datetime } ```
+datetime }
+```
 
 ## API ENDPOINT
 GET Messages(idCustomer, idSeller, dateMax) => [{message, message}]  
