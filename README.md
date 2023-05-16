@@ -5,6 +5,7 @@ Atelier 4
 Message : 
 ```
 { 
+  sender,
   customer,
   seller,
   content,  
