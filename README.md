@@ -14,7 +14,7 @@ Message :
 ```
 
 ## API ENDPOINT
-GET Messages(idCustomer, idSeller, dateMax) => [{message, message}]  
+GET chat(idCustomer, idSeller, dateMax) => [{message, message}]  
 POST (idCustomer, idSeller, contenu)  
 PUT (idMessage, newContenu)  
 DELETE (idMessage)
