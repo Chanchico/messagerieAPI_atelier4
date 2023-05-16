@@ -4,10 +4,12 @@ Atelier 4
 ## Structure 
 Message : 
 ```
-{ customer,
-seller,
-content, 
-datetime }
+{ 
+  customer,
+  seller,
+  content,  
+  datetime 
+}
 ```
 
 ## API ENDPOINT
